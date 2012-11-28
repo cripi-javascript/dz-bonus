@@ -3,7 +3,7 @@
 Есть замкнутый многоугольник внутри котрого находится шар. Пользователь может "пинать" шар с помощью мыши, шар должен
 двигаться, отталкиваться от стенок исходя из физической модели данного мира.
 
-[[https://raw.github.com/cripi-javascript/dz-bonus/master/scheme.png]]
+![](https://raw.github.com/cripi-javascript/dz-bonus/master/scheme.png)
 
 ## Физическая модель
 
